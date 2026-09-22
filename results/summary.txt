@@ -1,0 +1,11 @@
+Store Summary:
+          total_revenue  avg_units_sold  unique_order_segments
+Store_ID                                                      
+Store_A          8040.0        5.304348                      3
+Store_B          3780.0        5.375000                      3
+Store_C          3570.0        6.142857                      3
+
+Revenue Outliers:
+Empty DataFrame
+Columns: [Transaction_ID, Store_ID, Revenue, Units_Sold, Unit_Price, order_segment]
+Index: []
