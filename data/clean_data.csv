@@ -34,8 +34,8 @@ Transaction_ID,Store_ID,Revenue,Units_Sold
 1037,Store_A,120.0,6
 1038,Store_A,250.0,6
 1039,Store_B,120.0,3
-1040,Store_B,,6
-1041,Store_A,,8
+1040,Store_B,120.0,6
+1041,Store_A,120.0,8
 1042,Store_B,50.0,11
 1043,Store_A,120.0,11
 1045,Store_A,50.0,5
@@ -46,7 +46,7 @@ Transaction_ID,Store_ID,Revenue,Units_Sold
 1050,Store_A,50.0,4
 1052,Store_C,50.0,1
 1054,Store_C,120.0,5
-1055,Store_B,,6
+1055,Store_B,120.0,6
 1057,Store_A,120.0,9
 1058,Store_A,250.0,5
 1059,Store_A,50.0,8
